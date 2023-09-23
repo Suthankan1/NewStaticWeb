@@ -27,12 +27,12 @@ const siteProps = {
   name: "Suthankan Balenthiran",
   title: "Microsoft Learn Student Ambassadors",
   email: "Suthankan.Balenthiran@studentambassadors.com",
-  gitHub: "Suthankan1",
+  gitHub: "https://github.com/Suthankan1",
   instagram: "suthankan_balenthiran",
-  linkedIn: "Suthankan Balenthiran",
+  linkedIn: "https://www.linkedin.com/in/suthankan-balenthiran-437633271/",
   medium: "",
-  twitter: "Suthankan Balenthiran",
-  youTube: "Suthankan Balenthiran",
+  twitter: "https://twitter.com/B_Suthankan",
+  youTube: "https://www.youtube.com/channel/UCyE27SGC9kzagpq3dxy5QiQ",
 };
 
 const primaryColor = "#4E567E";
